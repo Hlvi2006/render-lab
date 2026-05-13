@@ -2,7 +2,7 @@ name: DevOps App CI
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
 
 jobs:
   build:
